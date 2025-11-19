@@ -1,0 +1,11 @@
+Hello!
+
+My name is Leanne Goldsmith and below are a few facts about me!
+
+I am 30 years old, with experience as a Front-End developer and before that, as a Social Media Manager for many estemmed clients.
+
+Recently, I have been developing skills in cybersecurity and cloud engineering, and have built projects to reflect and develop on these skills.
+
+I'm now a tech trainee at the La Fosse Academy, looking to make a career change and get placed at a company that will help me learn new skills, in addition to the ones I already know.
+
+If you want to get in touch, please contact me on leannemgoldsmith@gmail.com
